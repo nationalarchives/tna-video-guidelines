@@ -16,7 +16,7 @@
 
 Extensive preparation is crucial before you pick up the camera. Know what you want to achieve and an idea of how you want to achieve it. A storyboard – a step-by-step visual respresentaion of your video - is a good start.
 
-* [Create a script or storyboard](filming-preparing-a-shoot.md#creating-a-script)
+* [Create a script or storyboard](filming-preparing-a-shoot.md#creating-a-storyboard-and-script)
 * [Types of shots](filming-preparing-a-shoot.md#types-of-shot)
 * [Assigning roles](filming-preparing-a-shoot.md#assigning-roles)
 
