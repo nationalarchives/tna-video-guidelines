@@ -2,7 +2,9 @@
 
 Extensive preparation is crucial before you pick up the camera. Know what you want to achieve and an idea of how you want to achieve it. A storyboard – a step-by-step visual respresentaion of your video - is a good start.
 
-## Creating a script
+## Creating a storyboard and script
+
+Start with a storyboard. This can be a visual representation of each shot or simply a list of shots.
 
 Turn your storyboard into a script. For any voiceover/subtitles, add a paragraph break between each sentence to break up the script. This will encourage pauses between sentences when the voiceover is recorded, and when editing. Pauses between sections will help to illustrate the points, and allow the information sink in.
 
@@ -22,6 +24,6 @@ The pace of the video is dictated in the edit, led by the different angles.
 
 ## Assigning roles
 
-You should always have a minimum of two people taking part in the shoot. 
+You should always have a minimum of two people taking part in the shoot. Work as a team, sharing roles (camera operator, sound recordist, producer, director, interviewer, researcher, writer, animator), and very often doing several of them at once.
 
 You will need to adopt separate roles – one person filming, one directing and ideally one for continuity/overview. Don’t be afraid to play to the strengths of individual team members to get the best results.
