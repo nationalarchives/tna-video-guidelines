@@ -4,7 +4,7 @@
 
 **Consult the Web Team!** We have expertise and standards which all our videos need to meet. We must be involved in any videos you are intending to include on our website, whether hosted on our Archives Media Player or our YouTube channel.
 
-The first step is always to ask the question: Do we need a video? The answer is "No" more often than it's "Yes". Videos are not good for delivering lots of information and detail (that's done better with words and graphics). Videos are good for explaining ideas.
+The first step is always to ask the question: Do we need a video? The answer is "No" more often than it's "Yes". Videos are not good for delivering lots of information and detail (that's done better with words and graphics). Videos are good for explaining ideas, showing new services, or introducing teams or people.
 
 Before picking up a camera, make sure we know:
 
