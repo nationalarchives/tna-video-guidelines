@@ -22,8 +22,9 @@ Extensive preparation is crucial before you pick up the camera. Know what you wa
 
 ## Camera
 
-Four key things to consider: Exposure, Focus, White balance and Sound
+Four key areas to consider: Exposure, Focus, White balance and Sound
 
-## Editing 
-
-Adobe Premiere
+* [Exposure](filming-camera.md#exposure)
+* [Focus](filming-camera.md#focus)
+* [White balance](filming-camera.md#white-balance)
+* [Sound](filming-camera.md#sound)
