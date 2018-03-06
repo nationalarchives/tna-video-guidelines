@@ -12,6 +12,6 @@ Please contact the Web Team for advice and guidance on file formats and audio an
 * Framerate: native frame rate without resampling
 * Aspect ratio: native aspect ratios
 
-## The National Archives media player
+### The National Archives media player
 
 Please contact the web team for file format specs
