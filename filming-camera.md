@@ -1,6 +1,6 @@
 # Camera
 
-##Exposure
+## Exposure
 
 This is the light captured. There are four ways of controlling this (three on a still camera):
 
