@@ -20,3 +20,22 @@ The video must have:
 * appropriate credits if funded by/created by us, and copyright statement if it is ours
 * integrity – be of a high standard that we are proud to promote on our site
 
+## Make a plan and keep it simple
+
+### Keep it focused
+
+**Each video does one thing** - demonstrate one service, introduce one team, or explain one particular point. If there's more than one thing to explain, make more than one video.
+
+### Script or storyboard it
+
+Script or storyboard the video, but keep it loose or ‘agile’ enough to respond to change. A storyboard could simply be a list of shots.
+
+In most cases the video will be an interview scenario. Script out the questions and topics you want the interviewee to discuss.
+
+### Locations
+
+Do not choose unusual locations. **Utilise locations in and around The National Archives**. If you decide to shoot outside, pick a day where the weather conditions are consistent. Shooting with semi-overcast means the light source is always changing. This could look very odd when edited down.
+
+### Length
+
+**No videos longer than 2 minutes**. If we can't explain it in 2 minutes, it's probably already too complicated.
