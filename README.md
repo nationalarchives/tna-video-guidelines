@@ -39,3 +39,13 @@ Do not choose unusual locations. **Utilise locations in and around The National 
 ### Length
 
 **No videos longer than 2 minutes**. If we can't explain it in 2 minutes, it's probably already too complicated.
+
+## Guidance
+
+* [Branding and copyright](branding-copyright.md)
+* [Filming people](people.md)
+* [Filming](filming.md)
+* [Using images](images.md)
+* [Using music](music.md)
+* [Using text](text.md)
+* [Video file output technical specs](file-output.md)
