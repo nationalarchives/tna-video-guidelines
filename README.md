@@ -1,4 +1,4 @@
-# The National Archives video standards and guidelines for web
+# The National Archives video standards and guidelines
 
 ## Before you start
 
@@ -45,6 +45,7 @@ Do not choose unusual locations. **Utilise locations in and around The National 
 * [Branding and copyright](branding-copyright.md)
 * [Filming people](people.md)
 * [Filming](filming.md)
+* [Editing](editing.md)
 * [Using images](images.md)
 * [Using music](music.md)
 * [Using text](text.md)
