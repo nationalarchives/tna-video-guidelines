@@ -9,10 +9,16 @@
 * Avoid zooming in and out – this can distracting/disorientating, and looks unprofessional.
 * Do not use special effects. For transitions, we recommend only using dip to black, dip to white, and crossfade.
 * We would recommend using a dedicated video camera rather than a smartphone or similar. The web team have a camera which you can use.
+* Over-shoot – lots of footage will give you room to edit.
+* We are aiming for competence, not art. 
 
 ## Preparing a shoot
 
 Extensive preparation is crucial before you pick up the camera. Know what you want to achieve and an idea of how you want to achieve it. A storyboard – a step-by-step visual respresentaion of your video - is a good start.
+
+* [Create a script or storyboard](filming-preparing-a-shoot.md#creating-a-script)
+* [Types of shots](filming-preparing-a-shoot.md#types-of-shot)
+* [Assigning roles](filming-preparing-a-shoot.md#assigning-roles)
 
 ## Camera
 
