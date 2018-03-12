@@ -5,7 +5,7 @@ Please contact the Web Team for advice and guidance on file formats and audio an
 ### YouTube
 
 * 1080p HD broadcast format (1920 x 1080 with a 16:9 aspect ratio)
-* MPEG-2 format
+* MPEG-2 or MPEG-4 format
 * Video codec: H.264
 * Audio codec: AAC
 * Audio bitrate: 128 kbps or better
