@@ -131,8 +131,9 @@ Filming is in 1920px x 1080px (HD) at 16:9 ratio. You need to create a H.264 cod
 In Premiere:
 
 File → Export → Media
+
 Export settings screen:
-Format: H.264
-Preset: YouTube HD 1080p 25
+* Format: H.264
+* Preset: YouTube HD 1080p 25
 
 Click on **Output Name** and select the location where you want the file saved and change the file name if you choose. Then click **Export**.
