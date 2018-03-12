@@ -1,5 +1,9 @@
 # Editing with Adobe Premiere
 
+## Training
+
+If you would like basic training in Adobe Premiere please contact the web team to book a session. The training takes an hour and gives your the fundamentals to get started.
+
 ## Starting up
 
 New project → New folder
