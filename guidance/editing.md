@@ -126,15 +126,13 @@ Select your ‘work area’ at the top of the timeline with arrows and press ret
 
 If you make any changes after this, you will just need to render those sections that you have amended. 
 
-Filming is in 1920px x 1080px, 72 dpi, in high definition. You need to create a 1280 x 720 version too for web players (see below). Ratio of widescreen (eg YouTube) and plasma screen is 16 x 9. A normal monitor also has the ratio of 4 x 3.
+Filming is in 1920px x 1080px (HD) at 16:9 ratio. You need to create a H.264 codec formatted video file. Please see [technical specs](file-output.md).
 
 In Premiere:
 
 File → Export → Media
-Export settings screen → Video tab → Select PAL, H264 format, Preset Apple TV 720P, Frame 1280 x 720
+Export settings screen:
+Format: H.264
+Preset: YouTube HD 1080p 25
 
-You can create presets to re-use. 
-
-Media Encoder → Start queue
-
-AVI (Microsoft file format) and MOV (need Quicktime to play) are container formats. Could be any quality. FLV – used to be used in a Flash player.
+Click on **Output Name** and select the location where you want the file saved and change the file name if you choose. Then click **Export**.
