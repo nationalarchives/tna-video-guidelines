@@ -40,6 +40,12 @@ Do not choose unusual locations. **Utilise locations in and around The National 
 
 **No videos longer than 2 minutes**. If we can't explain it in 2 minutes, it's probably already too complicated.
 
+### Making video media accessible
+
+Content creators must meet the 2018 accessibility requirements. This reflects the [legal duty to ensure our services are accessible to users](https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps#who-has-to-meet-the-2018-accessibility-regulations).
+
+Please visit **[Making Audio and Video Media Accessible](https://www.w3.org/WAI/media/av/)** for detailed guidance.
+
 ## Guidance
 
 * [Branding and copyright](guidance/branding-copyright.md)
